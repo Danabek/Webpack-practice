@@ -1,0 +1,12 @@
+// Fonts here
+
+// FuturaFONT
+
+@font-face {
+  font-family: "Futura-Book";
+  src: url('/static/fonts/Futura/FuturaBookC.ttf'); /* IE9 Compat Modes */
+  src: url('/static/fonts/Futura/FuturaBookC.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/static/fonts/Futura/FuturaBookC.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/static/fonts/Futura/FuturaBookC.ttf')  format('truetype'), /* Safari, Android, iOS */
+       //  url('/assets/fonts/HelveticaNeueCyr/Black/HelveticaNeueCyr-Black.svg') format('svg'); /* Legacy iOS */
+}
